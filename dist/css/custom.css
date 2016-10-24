@@ -1,0 +1,23 @@
+/* coleman custom
+ * 
+ *
+ */
+ 
+ html{font-family:sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}
+ 
+ 
+ body{margin:0;
+ background-color:#80CCCC;
+ color:#ddd;
+ }
+ 
+ .navbar,.navbar-inverse{
+	background-color: #80bbbb;
+	color: #00ff00;
+	
+	
+}
+a{
+color: #00ff00;
+
+}
