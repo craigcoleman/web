@@ -1,1 +1,30 @@
 
+/* coleman custom
+ * 
+ *
+ */
+ 
+ html{font-family:sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}
+ 
+ body{margin:0;
+ background-color:#fff;
+ color:#ddd;
+ }
+ .navbar,.navbar-inverse{
+ 	font: 18px arial, sans-serif;
+	background-color: #80bbbb;
+	color: #00ff00;
+}
+.navbar-inverse .navbar-nav > li > a{
+font: 18px arial, sans-serif;
+font-family:sans-serif; font-weight: 900;
+background-color: #80bbbb;
+	color: #000;
+
+}
+
+.navbar-inverse .navbar-nav > li > a:hover{
+font-family:sans-serif; font-weight: 900;
+	color: #fff;
+
+}
